@@ -1,5 +1,5 @@
 1) Iniciar un repositorio: 
 git init
 
-2) creamos un README.md  ---.md es una extesión de markdown. 
+2) creamos un README.md  ---.md es una extesión de markdown
 
