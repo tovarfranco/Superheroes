@@ -3,3 +3,4 @@ git init
 
 2) creamos un README.md  ---.md es una extesión de markdown
 
+3) git remote add remoto https://github.com/tovarfranco/Superheroes.git
